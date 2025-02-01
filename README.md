@@ -17,9 +17,11 @@ This collection includes a variety of **books, research papers, and learning mat
 ## 📥 How to Access the Books  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/YOUR_ORG/ML-AI-Books.git
+   https://github.com/A1ML-LEARNING/ML-AI-books-and-articles.git
 
 2.Navigate to the book category of interest.
+
+
 3.Open and explore the content!
 
 Note: These books are for educational purposes. If you find them useful, consider supporting the original authors.
@@ -28,7 +30,9 @@ Note: These books are for educational purposes. If you find them useful, conside
 We welcome contributions! If you have valuable books to add:
 
 Fork the repository
+
 Add your books to the appropriate category
+
 Submit a Pull Request (PR)
 
 ⭐ Stay Connected
